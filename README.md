@@ -8,7 +8,6 @@ This is a simple **YouTube-style video listing page** that fetches and displays 
 
 ## 📸 Screenshots
 ![Project Screenshot] ![image](https://github.com/user-attachments/assets/802373e4-6270-41ee-974b-a69cd81e0f2d)
-*(Upload a screenshot to GitHub and update this link.)*
 
 ## ✨ Features
 ✅ Fetches & displays YouTube videos  
