@@ -22,8 +22,3 @@ This is a simple **YouTube-style video listing page** that fetches and displays 
 - JavaScript
 - Fetch API
 - Hosted on **Vercel**
-
-## 📥 Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/YOUR_USERNAME/youtube-video-listing.git
